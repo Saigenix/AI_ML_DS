@@ -38,7 +38,3 @@ Finally, to create an environment called env_from_file from a .yml file called e
 conda env create --file environment.yml --name env_from_file
 
 For more on creating an environment from a .yml file, check out the Conda documentation on creating an environment from a .yml file.
-
-
-
-PS Thank you to Konstantin for pointing this out.
