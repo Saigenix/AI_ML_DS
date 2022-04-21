@@ -3,14 +3,24 @@
  `python`
 
 > :memo: **Note:** Sunrises are beautiful.
- 
 > :bulb: **Tip:** Remember to appreciate the little things in life.
-
-
-> its spck
-
-
 > :warning: **Warning:** *Stay Hungry Stay Foolish.*
+
+
+> # Project Setup
+
+1. CD into project file
+2. Conda create --prefix ./env (package names)
+
+
+
+
+
+
+
+
+
+
 
 > **Resources:**
 
