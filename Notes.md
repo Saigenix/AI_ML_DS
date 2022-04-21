@@ -57,4 +57,4 @@
 
 
 
-All Rights Reserved to @Saigenix [^1]
+[^1]: All Rights Reserved to @Saigenix
