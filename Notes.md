@@ -1,6 +1,7 @@
 # AI and ML notes
 
- `python`
+ `python
+ print("sss")`
 
 > :memo: **Note:** Sunrises are beautiful.
 
@@ -9,7 +10,7 @@
 > :warning: **Warning:** *Stay Hungry Stay Foolish.*
 
 
-> ## Project Setup
+> ## Project Setup/Run
 
 1. open miniconda command prompt and  CD into project file
 2. conda create --prefix ./env (package names)
@@ -23,14 +24,20 @@
 
 > ## jupyter notebook 
 
-- 
+- [jupyter guide](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+- [jupyter documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
+- cell can contains **code or markdown**
+- To run cell you can use run or *shift + entre*
+- no on the side on cell tells the number of running cell and code runs orderlly 
+- there are two modes of cell **edit and normal** to change between the mode use esc -> normal and entre -> edit button 🔘 
+- if you are in normal mode then use **m** for markdown and **y** key for code 
+- esc b for new cell below , esc a for new cell above , esc dd for delete
 
 
 ---
 
 > ## Share conda env
 - Prefer shareConda.m
-
 
 ---
 
@@ -55,6 +62,7 @@
 1. <https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/>
 2. 
 
+---
 
 Copyright 2022 [^1]
 [^1]: All Rights Reserved to @Saigenix
