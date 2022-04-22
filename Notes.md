@@ -63,7 +63,7 @@
 9. Scrapy
 10. BeautifulSoup
 
-[pandas](#pandas) 
+[pandas](#🐼-Pandas) 
 ---
 
 > **Resources:**
