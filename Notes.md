@@ -1,12 +1,24 @@
 # AI and ML notes
 
+> ## Index 👉
+
+- [🎉Introduction](#Intro)
+- [🖥️Project Setup](#Project-Setup/Run)
+- [✨Share conda env](#Share-conda-env) 
+- [📒jupyter notebook](#jupyter-notebook)
+- [🐼Pandas](#Pandas)
+- 
+
+
+---
+> ## Intro
+
  `python
  print("sss")`
  
  ```
  print(hello world)
  def this():
-     
  ```
 
 > :memo: **Note:** Real Is Fictional.
@@ -14,18 +26,6 @@
 > :bulb: **Tip:** Remember to appreciate the little things in life.
 
 > :warning: **Warning:** *Stay Hungry Stay Foolish.*
-
-
-> ## Index 👉
-
-- [Project Setup](#Project-Setup/Run)
-- [Share conda env](#Share-conda-env) 
-- [jupyter notebook](#jupyter-notebook)
-- [Pandas](#Pandas)
-
-
-
-
 
 ---
 
@@ -38,11 +38,12 @@
 5. After Successful activation the base in braket changes to path
 6. conda install jupyter 
 7. Run jupyter notebook command
+8. :memo: now your ready to code.
 
 ---
 
 > ## Share conda env
-- Prefer [shareConda.m](https://github.com/Saigenix/AI_ML_DS/blob/main/ShareConda.md)
+- Prefer [shareConda.md](https://github.com/Saigenix/AI_ML_DS/blob/main/ShareConda.md)
 
 --- 
 
