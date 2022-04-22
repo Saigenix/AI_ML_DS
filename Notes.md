@@ -10,7 +10,7 @@
 > :warning: **Warning:** *Stay Hungry Stay Foolish.*
 
 
-> ## Project Setup/Run
+> ## 🖥️Project Setup/Run
 
 1. open miniconda command prompt and  CD into project file
 2. conda create --prefix ./env (package names)
@@ -22,7 +22,12 @@
 
 ---
 
-> ## jupyter notebook 
+> ## 🌈 Share conda env
+- Prefer shareConda.m
+
+--- 
+
+> ## 📒 jupyter notebook 
 
 - [jupyter guide](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - [jupyter documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
@@ -32,15 +37,18 @@
 - there are two modes of cell **edit and normal** to change between the mode use esc -> normal and entre -> edit button 🔘 
 - if you are in normal mode then use **m** for markdown and **y** key for code 
 - esc b for new cell below , esc a for new cell above , esc dd for delete
+- use ! before command to use terminal commands ex. !pip install package name
+
+
+
+---
+> ## 🐼 Pandas 
+
+- **pandas is python library for data analysis**
+- 
 
 
 ---
-
-> ## Share conda env
-- Prefer shareConda.m
-
----
-
 
 > **Imp Python Package:**
 
@@ -55,6 +63,7 @@
 9. Scrapy
 10. BeautifulSoup
 
+[Back to Top 🔝](#) 
 ---
 
 > **Resources:**
@@ -62,6 +71,8 @@
 1. <https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/>
 2. 
 
+
+[Back to top 🔝](#) 
 ---
 
 Copyright 2022 [^1]
