@@ -14,7 +14,7 @@
 
 - [Project Setup](#🖥️Project-Setup/Run)
 - [Share conda env](#Share-conda-env) 
-- [jupyter notebook](#📒-jupyter-notebook)
+- [jupyter notebook](#jupyter-notebook)
 
 
 
@@ -39,7 +39,7 @@
 
 --- 
 
-> ## 📒 jupyter notebook 
+> ## jupyter notebook 
 
 - [jupyter guide](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - [jupyter documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
