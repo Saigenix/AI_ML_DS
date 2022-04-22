@@ -10,6 +10,13 @@
 > :warning: **Warning:** *Stay Hungry Stay Foolish.*
 
 
+> ## Index 👉
+- [Project Setup](#🖥️Project-Setup/Run)
+
+
+
+---
+
 > ## 🖥️Project Setup/Run
 
 1. open miniconda command prompt and  CD into project file
@@ -22,7 +29,7 @@
 
 ---
 
-> ## 🌈 Share conda env
+> ##Share conda env
 - Prefer shareConda.m
 
 --- 
@@ -63,7 +70,7 @@
 9. Scrapy
 10. BeautifulSoup
 
-[pandas](#🐼-Pandas) 
+[pandas](#Share-conda-env) 
 ---
 
 > **Resources:**
