@@ -11,7 +11,11 @@
 
 
 > ## Index 👉
+
 - [Project Setup](#🖥️Project-Setup/Run)
+- [Share conda env](#Share-conda-env) 
+
+
 
 
 
@@ -29,7 +33,7 @@
 
 ---
 
-> ##Share conda env
+> ## Share conda env
 - Prefer shareConda.m
 
 --- 
@@ -70,7 +74,6 @@
 9. Scrapy
 10. BeautifulSoup
 
-[pandas](#Share-conda-env) 
 ---
 
 > **Resources:**
