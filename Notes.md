@@ -14,6 +14,7 @@
 
 - [Project Setup](#🖥️Project-Setup/Run)
 - [Share conda env](#Share-conda-env) 
+- [jupyter notebook](#📒-jupyter-notebook)
 
 
 
@@ -61,7 +62,7 @@
 
 ---
 
-> **Imp Python Package:**
+> ## Imp Python Package:
 
 1. TensorFlow
 2. NumPy
@@ -76,7 +77,7 @@
 
 ---
 
-> **Resources:**
+> ## Resources:
 
 1. <https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/>
 2. 
