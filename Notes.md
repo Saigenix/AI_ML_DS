@@ -2,8 +2,14 @@
 
  `python
  print("sss")`
+ 
+ ```
+ print(hello world)
+ def this():
+     
+ ```
 
-> :memo: **Note:** Sunrises are beautiful.
+> :memo: **Note:** Real Is Fictional.
 
 > :bulb: **Tip:** Remember to appreciate the little things in life.
 
@@ -12,9 +18,10 @@
 
 > ## Index 👉
 
-- [Project Setup](#🖥️Project-Setup/Run)
+- [Project Setup](#Project-Setup/Run)
 - [Share conda env](#Share-conda-env) 
 - [jupyter notebook](#jupyter-notebook)
+- [Pandas](#Pandas)
 
 
 
@@ -22,7 +29,7 @@
 
 ---
 
-> ## 🖥️Project Setup/Run
+> ## Project Setup/Run
 
 1. open miniconda command prompt and  CD into project file
 2. conda create --prefix ./env (package names)
@@ -35,7 +42,7 @@
 ---
 
 > ## Share conda env
-- Prefer shareConda.m
+- Prefer [shareConda.m](https://github.com/Saigenix/AI_ML_DS/blob/main/ShareConda.md)
 
 --- 
 
@@ -54,7 +61,7 @@
 
 
 ---
-> ## 🐼 Pandas 
+> ## Pandas 
 
 - **pandas is python library for data analysis**
 - 
