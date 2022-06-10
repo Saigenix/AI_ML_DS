@@ -16,8 +16,7 @@
  `python
  print("sss")`
  
- - > [/All Code is here/](https://colab.research.google.com/drive/1Kd-PEs8WmLzSE9WaYZtJhNREFtuW9CnE)
- 
+
  ```
  print(hello world)
  def this():
@@ -72,7 +71,9 @@
 - [Ztm pandas Notes 1](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas-video.ipynb)
 - [Ztm pandas Notes 2](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb)
 - [10 min to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#min)
-- 
+- > [/All Code is here/](https://colab.research.google.com/drive/1Kd-PEs8WmLzSE9WaYZtJhNREFtuW9CnE)
+- > pandas all syntax and code is given above note book
+  
 
 
 ---
