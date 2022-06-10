@@ -16,6 +16,8 @@
  `python
  print("sss")`
  
+ - > [/All Code is here/](https://colab.research.google.com/drive/1Kd-PEs8WmLzSE9WaYZtJhNREFtuW9CnE)
+ 
  ```
  print(hello world)
  def this():
