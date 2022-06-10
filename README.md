@@ -1,4 +1,4 @@
-# AI and ML notes
+# AI and ML Notes
 
 > ## Index 👉
 
@@ -64,7 +64,12 @@
 ---
 > ## Pandas 
 
-- **pandas is python library for data analysis**
+> **pandas is python library for data analysis**
+
+- [Pandas documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [Ztm pandas Notes 1](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas-video.ipynb)
+- [Ztm pandas Notes 2](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb)
+- [10 min to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#min)
 - 
 
 
