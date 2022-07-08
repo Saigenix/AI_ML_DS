@@ -81,6 +81,9 @@
 
 > `Numpy is a python library which helps to interact with data fastly`
 
+- [Pandas Docs](https://numpy.org/doc/)
+- [All code is here](https://github.com/Saigenix/AI_ML_DS/blob/main/code/pandas-exercises.ipynb)
+- 
 
 
 
