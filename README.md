@@ -7,7 +7,7 @@
 - [✨Share conda env](#Share-conda-env) 
 - [📒jupyter notebook](#jupyter-notebook)
 - [🐼Pandas](#Pandas)
-- 
+- [♾️Numpy](#Numpy)
 
 
 ---
@@ -74,6 +74,14 @@
 - > [/All Code is here/](https://colab.research.google.com/drive/1Kd-PEs8WmLzSE9WaYZtJhNREFtuW9CnE)
 - > pandas all syntax and code is given above note book
   
+
+---
+
+> ## Numpy
+
+> `Numpy is a python library which helps to interact with data fastly`
+
+
 
 
 ---
