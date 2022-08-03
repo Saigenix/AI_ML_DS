@@ -1,4 +1,4 @@
-# AI and ML Notes
+# AI and ML Notes (Bést)
 
 > ## Index 👉
 
