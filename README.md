@@ -79,12 +79,20 @@
 
 > ## Numpy
 
-> `Numpy is a python library which helps to interact with data fastly`
+> **Numpy is a python library which helps to interact with data fastly**
 
-- [📄 Pandas Docs](https://numpy.org/doc/)
-- [All code is here](https://github.com/Saigenix/AI_ML_DS/blob/main/code/pandas-exercises.ipynb)
+- [📄 Numpy Docs](https://numpy.org/doc/)
+- [All code is here](https://github.com/Saigenix/AI_ML_DS/blob/main/code/introduction-to-numpy.ipynb)
+- [The Basics of NumPy Arrays by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html)
+- [A Visual Introduction to NumPy by Jay Alammar](http://jalammar.github.io/visual-numpy/)
 - 
 
+> ## Matplotlib 
+
+> **matplotlib is a py library to visually show a data**
+
+- [Matplotlib docs](https://matplotlib.org/3.1.1/contents.html)
+- 
 
 
 ---
