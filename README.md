@@ -97,7 +97,7 @@
 
 
 ---
-> ## 👨‍💻Scikit  learn
+> ## 👨‍💻Scikit learn
 
 > **🧧Scikit learn is machine learning library help to create ml models**
 
