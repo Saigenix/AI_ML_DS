@@ -8,6 +8,7 @@
 - [📒jupyter notebook](#jupyter-notebook)
 - [🐼Pandas](#Pandas)
 - [♾️Numpy](#Numpy)
+- [🔬Scikit Learn](#👨‍💻scikit-learn)
 
 
 ---
@@ -87,16 +88,21 @@
 - [A Visual Introduction to NumPy by Jay Alammar](http://jalammar.github.io/visual-numpy/)
 - 
 
-> ## Matplotlib 
+> ## 📉Matplotlib 
 
-> **matplotlib is a py library to visually show a data**
+> **📊matplotlib is a py library to visually show a data**
 
 - [Matplotlib docs](https://matplotlib.org/3.1.1/contents.html)
 - 
 
 
 ---
+> ## 👨‍💻Scikit learn
 
+> **🧧Scikit learn is machine learning library help to create ml models**
+
+- [Choose right model](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+---
 > ## Imp Python Package:
 
 1. TensorFlow
